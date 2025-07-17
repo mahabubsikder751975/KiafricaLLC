@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MahabuburRahamanKomo\\KiafricaLLC\\KiafricaLLC.csproj": {}
+    "C:\\Software\\KiafricaLLC\\KiafricaLLC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MahabuburRahamanKomo\\KiafricaLLC\\KiafricaLLC.csproj": {
+    "C:\\Software\\KiafricaLLC\\KiafricaLLC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MahabuburRahamanKomo\\KiafricaLLC\\KiafricaLLC.csproj",
+        "projectUniqueName": "C:\\Software\\KiafricaLLC\\KiafricaLLC.csproj",
         "projectName": "KiafricaLLC",
-        "projectPath": "C:\\Users\\MahabuburRahamanKomo\\KiafricaLLC\\KiafricaLLC.csproj",
+        "projectPath": "C:\\Software\\KiafricaLLC\\KiafricaLLC.csproj",
         "packagesPath": "C:\\Users\\MahabuburRahamanKomo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MahabuburRahamanKomo\\KiafricaLLC\\obj\\",
+        "outputPath": "C:\\Software\\KiafricaLLC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MahabuburRahamanKomo\\AppData\\Roaming\\NuGet\\NuGet.Config"
