@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - KiafricaLLC</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/KiafricaLLC.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <!-- Header and Navigation -->
+    <header class="bg-white shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center text-2xl font-bold text-gray-800">
+                <!-- Using logo from 'wwwroot/images' folder. Adjust height as needed. -->
+                <img src="/images/logo.jpg" alt="Kiafrica LLC Logo" class="h-12 mr-3">
+                <span>Kiafrica LLC</span>
+            </div>
+            <nav class="hidden md:flex items-center space-x-6">
+                <a href="#home" class="text-gray-600 hover:text-blue-700 transition-colors">Home</a>
+                <a href="#about" class="text-gray-600 hover:text-blue-700 transition-colors">About</a>
+                <a href="#services" class="text-gray-600 hover:text-blue-700 transition-colors">Services</a>
+                <a href="#contact" class="text-gray-600 hover:text-blue-700 transition-colors">Contact</a>
+                <a href="#contact" class="bg-blue-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-blue-700 transition-colors">Get a Quote</a>
+            </nav>
+            <div class="md:hidden">
+                <button id="mobile-menu-button" class="text-gray-800 focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                </button>
+            </div>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden px-6 pb-4">
+            <a href="#home" class="block py-2 text-gray-600 hover:text-blue-700">Home</a>
+            <a href="#about" class="block py-2 text-gray-600 hover:text-blue-700">About</a>
+            <a href="#services" class="block py-2 text-gray-600 hover:text-blue-700">Services</a>
+            <a href="#contact" class="block py-2 text-gray-600 hover:text-blue-700">Contact</a>
+            <a href="#contact" class="block mt-2 text-center bg-blue-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-blue-700">Get a Quote</a>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+     <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-6 text-center">
+            <p>&copy; 2025 Kiafrica LLC. All Rights Reserved.</p>
+            <p class="text-sm text-gray-400 mt-2">Professional Consulting & Insurance Services</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
