@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KiafricaLLC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5516b45e981b10cca5b20b1241b76a67332f82e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03b8d8506255b826abdc7c409978af6ada6f2919")]
 [assembly: System.Reflection.AssemblyProductAttribute("KiafricaLLC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KiafricaLLC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
