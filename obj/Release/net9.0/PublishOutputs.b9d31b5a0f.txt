@@ -1,0 +1,7 @@
+C:\Users\mahab\KiafricaLLC\publishKiafrica\KiafricaLLC.exe
+C:\Users\mahab\KiafricaLLC\publishKiafrica\appsettings.Development.json
+C:\Users\mahab\KiafricaLLC\publishKiafrica\appsettings.json
+C:\Users\mahab\KiafricaLLC\publishKiafrica\KiafricaLLC.dll
+C:\Users\mahab\KiafricaLLC\publishKiafrica\KiafricaLLC.deps.json
+C:\Users\mahab\KiafricaLLC\publishKiafrica\KiafricaLLC.runtimeconfig.json
+C:\Users\mahab\KiafricaLLC\publishKiafrica\KiafricaLLC.pdb

@@ -1,0 +1,7 @@
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\KiafricaLLC.exe
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\appsettings.json
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\KiafricaLLC.dll
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\KiafricaLLC.deps.json
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\KiafricaLLC.runtimeconfig.json
+C:\Users\mahab\KiafricaLLC\bin\Release\net9.0\publish\KiafricaLLC.pdb

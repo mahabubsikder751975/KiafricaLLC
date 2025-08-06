@@ -1,0 +1,13 @@
+C:\Users\mahab\KiafricaLLC\publish\KiafricaLLC.exe
+C:\Users\mahab\KiafricaLLC\publish\publish\web.config
+C:\Users\mahab\KiafricaLLC\publish\appsettings.Development.json
+C:\Users\mahab\KiafricaLLC\publish\appsettings.json
+C:\Users\mahab\KiafricaLLC\publish\publish\appsettings.Development.json
+C:\Users\mahab\KiafricaLLC\publish\publish\appsettings.json
+C:\Users\mahab\KiafricaLLC\publish\publish\KiafricaLLC.deps.json
+C:\Users\mahab\KiafricaLLC\publish\publish\KiafricaLLC.runtimeconfig.json
+C:\Users\mahab\KiafricaLLC\publish\publish\KiafricaLLC.staticwebassets.endpoints.json
+C:\Users\mahab\KiafricaLLC\publish\KiafricaLLC.dll
+C:\Users\mahab\KiafricaLLC\publish\KiafricaLLC.deps.json
+C:\Users\mahab\KiafricaLLC\publish\KiafricaLLC.runtimeconfig.json
+C:\Users\mahab\KiafricaLLC\publish\KiafricaLLC.pdb

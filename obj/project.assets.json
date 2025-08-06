@@ -8,23 +8,26 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MahabuburRahamanKomo\\.nuget\\packages\\": {}
+    "C:\\Users\\mahab\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software\\KiafricaLLC\\KiafricaLLC.csproj",
+      "projectUniqueName": "C:\\Users\\mahab\\KiafricaLLC\\KiafricaLLC.csproj",
       "projectName": "KiafricaLLC",
-      "projectPath": "C:\\Software\\KiafricaLLC\\KiafricaLLC.csproj",
-      "packagesPath": "C:\\Users\\MahabuburRahamanKomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Software\\KiafricaLLC\\obj\\",
+      "projectPath": "C:\\Users\\mahab\\KiafricaLLC\\KiafricaLLC.csproj",
+      "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahab\\KiafricaLLC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MahabuburRahamanKomo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mahab\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
@@ -41,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
